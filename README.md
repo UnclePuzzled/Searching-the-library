@@ -22,7 +22,7 @@
 ![v1.3.0 interface](images/1.3.0.png)
 ---
 
-## 📦 Installation & Usage
+## Installation & Usage
 
 1. Download the `.exe` file from the [Releases](https://github.com/ivanpetrov/Searching-the-library/releases) section
 2. Run the file directly (no installation required)
@@ -33,7 +33,7 @@
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
