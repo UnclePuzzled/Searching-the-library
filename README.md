@@ -37,8 +37,5 @@
 
 This project is licensed under the [MIT License](LICENSE).
 
-Issues, suggestions or feature requests?  
-Feel free to [open an issue](https://github.com/your-username/Searching-the-library/issues) or contribute!
-
 ---
 
