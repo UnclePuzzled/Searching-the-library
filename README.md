@@ -24,7 +24,7 @@
 
 ## Installation & Usage
 
-1. Download the `.exe` file from the [Releases](https://github.com/ivanpetrov/Searching-the-library/releases) section
+1. Download the `.exe` file from the [Releases](https://github.com/UnclePuzzled/Searching-the-library/releases) section
 2. Run the file directly (no installation required)
 3. Enter the target directory and search terms
 4. Results are displayed immediately; click on any result to open its folder
